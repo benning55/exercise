@@ -62,7 +62,8 @@
     {
         "id": 11,
         "type": "Bowling",
-        "minutes": 4
+        "minutes": 4,
+        "cal": 4
     },
     {
         "id": 12,
