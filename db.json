@@ -1,14 +1,91 @@
 [
     {
         "id": 1,
-        "type": "running",
+        "type": "Running",
+        "minutes": 1,
+        "cal": 13
+    },
+    {
+        "id": 2,
+        "type": "Rope jumping",
+        "minutes": 1,
+        "cal": 17
+    },
+    {
+        "id": 3,
+        "type": "Swimming",
+        "minutes": 1,
+        "cal": 14
+    },
+    {
+        "id": 4,
+        "type": "Aerobics",
+        "minutes": 1,
+        "cal": 9
+    },
+    {
+        "id": 5,
+        "type": "Basketball",
+        "minutes": 1,
+        "cal": 11
+    },
+    {
+        "id": 6,
+        "type": "Bicycling",
+        "minutes": 1,
+        "cal": 8
+    },
+    {
+        "id": 7,
+        "type": "Boxing",
+        "minutes": 1,
+        "cal": 8
+    },
+    {
+        "id": 8,
+        "type": "Soccer",
+        "minutes": 1,
+        "cal": 10
+    },
+    {
+        "id": 9,
+        "type": "Tennis",
+        "minutes": 1,
+        "cal": 10
+    },
+    {
+        "id": 10,
+        "type": "Table tennis",
         "minutes": 1,
         "cal": 5
     },
     {
-        "id": 2,
-        "type": "jumprope",
+        "id": 11,
+        "type": "Bowling",
+        "minutes": 4
+    },
+    {
+        "id": 12,
+        "type": "Vollyball",
         "minutes": 1,
-        "cal": 10
+        "cal": 12
+    },
+    {
+        "id": 13,
+        "type": "Walking",
+        "minutes": 1,
+        "cal": 9
+    },
+    {
+        "id": 14,
+        "type": "Golf",
+        "minutes": 1,
+        "cal": 4
+    },
+    {
+        "id": 15,
+        "type": "Yoga",
+        "minutes": 1,
+        "cal": 3
     }
 ]
