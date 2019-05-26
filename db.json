@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "type": "running",
+        "minutes": 1,
+        "cal": 5
+    },
+    {
+        "id": 2,
+        "type": "jumprope",
+        "minutes": 1,
+        "cal": 10
+    }
+]
