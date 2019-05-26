@@ -87,5 +87,23 @@
         "type": "Yoga",
         "minutes": 1,
         "cal": 3
+    },
+    {
+        "id": 16,
+        "type": "Rock climbing",
+        "minutes": 1,
+        "cal": 15
+    },
+    {
+        "id": 17,
+        "type": "Badminton",
+        "minutes": 1,
+        "cal": 5
+    },
+    {
+        "id": 18,
+        "type": "Junping jacks",
+        "minutes": 1,
+        "cal": 12
     }
 ]
